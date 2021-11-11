@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ozon.Tech.NoSQL", "Ozon.Tech.NoSQL\Ozon.Tech.NoSQL.csproj", "{E8653F35-9B08-454E-AEE2-711AF201BAA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ozon.Tech.NoSQL.WeatherApi", "Ozon.Tech.NoSQL.WeatherApi\Ozon.Tech.NoSQL.WeatherApi.csproj", "{609D2C73-0F67-4D21-A8FC-341796ECB821}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8653F35-9B08-454E-AEE2-711AF201BAA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8653F35-9B08-454E-AEE2-711AF201BAA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8653F35-9B08-454E-AEE2-711AF201BAA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8653F35-9B08-454E-AEE2-711AF201BAA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{609D2C73-0F67-4D21-A8FC-341796ECB821}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{609D2C73-0F67-4D21-A8FC-341796ECB821}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{609D2C73-0F67-4D21-A8FC-341796ECB821}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{609D2C73-0F67-4D21-A8FC-341796ECB821}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
